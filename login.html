@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Login</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+    <link href="./css/login.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="login-container">
+        <div>
+            <a href="index.html">
+                <img alt="Spotify logo" src="./images/logo-new.png" />
+                <h1>Log in to Spotify</h1>
+            </a>
+        </div>
+        <button class="google-btn">
+            <i class="fab fa-google"></i>
+            Continue with Google
+        </button>
+        <button class="facebook-btn">
+            <i class="fab fa-facebook-f"></i>
+            Continue with Facebook
+        </button>
+        <button class="apple-btn">
+            <i class="fab fa-apple"></i>
+            Continue with Apple
+        </button>
+        <button class="phone-btn">Continue with phone number</button>
+        <hr />
+        <form action="login.php" method="POST"> 
+            <input name="emailOrUsername" placeholder="Email or username" type="text" required />
+            <input name="password" placeholder="Password" type="password" required />
+            <button type="submit" class="login-btn">Log In</button>
+        </form>
+        <a href="#">Forgot your password?</a>
+        <p>Don't have an account? <a href="register.html">Sign up for Spotify</a></p>
+        <div class="footer">
+            This site is protected by reCAPTCHA and the Google
+            <a href="#">Privacy Policy</a> and
+            <a href="#">Terms of Service</a> apply.
+        </div>
+    </div>
+</body>
+
+</html>
