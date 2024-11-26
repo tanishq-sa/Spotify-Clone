@@ -54,5 +54,5 @@ Spotify/
 
 3. **Home Page**
 
-[![Home Page](https://i.postimg.cc/C1sn6b9R/temp-Image57sgkj.avif)](https://postimg.cc/S2jKnYS4)
+[![temp-Imagevl2b5-L.avif](https://i.postimg.cc/XqTZrxCD/temp-Imagevl2b5-L.avif)](https://postimg.cc/rRNyb1gS)
 
