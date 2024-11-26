@@ -48,3 +48,11 @@ Spotify/
 
 [![Login Page](https://i.postimg.cc/C1sn6b9R/temp-Image57sgkj.avif)](https://postimg.cc/S2jKnYS4)
 
+2. **Sign up Page**
+
+[![Sign up Page](https://i.postimg.cc/RZmF2WQf/temp-Imagep-Cm-Ahj.avif)](https://postimg.cc/4m8s9N0N)
+
+3. **Home Page**
+
+[![Home Page](https://i.postimg.cc/C1sn6b9R/temp-Image57sgkj.avif)](https://postimg.cc/S2jKnYS4)
+
