@@ -21,7 +21,7 @@ This project is a web-based Spotify clone that simulates some of the core functi
 
 ## Project Structure
 
-Spotify/
+```Spotify/
 ├── .github/
 │   └── workflows/          # Contains GitHub Actions workflows
 ├── css/
@@ -34,7 +34,7 @@ Spotify/
 ├── register.html           # Registration page
 ├── login.php               # PHP script for user login
 └── register.php            # PHP script for user registration
-
+```
 ## Installation
 
 1. **Clone the Repository**:
