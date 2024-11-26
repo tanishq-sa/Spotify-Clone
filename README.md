@@ -1,4 +1,4 @@
-# Spotify 
+# Spotify Clone
 
 This project is a web-based Spotify clone that simulates some of the core functionalities of the popular music streaming platform. It allows users to register, log in, and experience a music-themed interface.
 
@@ -20,3 +20,31 @@ This project is a web-based Spotify clone that simulates some of the core functi
   - Includes automated workflows for continuous integration and deployment, configured for GitHub Pages.
 
 ## Project Structure
+
+Spotify/
+├── .github/
+│   └── workflows/          # Contains GitHub Actions workflows
+├── css/
+│   ├── styles.css          # Main stylesheet
+│   ├── register.css        # Styles for the registration page
+│   └── login.css           # Styles for the login page
+├── images/                 # Spotify logos and music-related images
+├── index.html              # Main landing page
+├── login.html              # Login page
+├── register.html           # Registration page
+├── login.php               # PHP script for user login
+└── register.php            # PHP script for user registration
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/spotify-clone.git
+   cd spotify-clone
+
+## Screenshots
+
+1. **Login Page**
+
+![Login Page](https://ibb.co/nmkzdtJ)
+
